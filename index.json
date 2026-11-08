@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "tacl2025-ood-eval-self-rationalization",
+  "versions": [
+    {
+      "commit": "ff791547441cf1f2326580253c3c771707ebed83",
+      "tag": "",
+      "parsed_at": "2026-11-08T18:52:20.126951+00:00"
+    }
+  ]
+}
