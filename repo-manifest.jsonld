@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/tacl2025-ood-eval-self-rationalization/commit/ff791547441cf1f2326580253c3c771707ebed83",
       "git:hexsha": "ff791547441cf1f2326580253c3c771707ebed83",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
